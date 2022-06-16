@@ -5,3 +5,5 @@ My second message!
 My third message!
 
 Global message!!!
+
+Local message!
